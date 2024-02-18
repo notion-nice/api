@@ -1,0 +1,19 @@
+{
+  "name": "express-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sls.js",
+  "scripts": {
+    "dev": "NODE_ENV=development node app.js"
+  },
+  "author": "sengmitnick",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "cors": "^2.8.5",
+    "cos-nodejs-sdk-v5": "^2.13.1",
+    "fflate": "^0.8.2",
+    "multer": "^2.0.0-rc.4",
+    "uuid": "^9.0.1"
+  }
+}
